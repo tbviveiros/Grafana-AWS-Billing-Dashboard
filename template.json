@@ -2,7 +2,7 @@
   "annotations": {
     "list": []
   },
-  "description": "Visualize estimated AWS charges.",
+  "description": "Visualize estimated AWSs charges.",
   "editable": true,
   "gnetId": 139,
   "graphTooltip": 0,
